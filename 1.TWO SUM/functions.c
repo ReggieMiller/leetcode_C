@@ -9,7 +9,6 @@ int* twoSum(int* nums, int numsSize, int target) {
         {
             if(nums[i] + nums[j] == target)
             {
-                //count++;
                 result[0] = i;
                 result[1] = j;
                 return result;
