@@ -4,4 +4,5 @@
 4.极端情况处理方案需要预留
 5.memcpy时字符取地址&s[i-midCount]--memcpy(longestPa,&s[i-midCount],midCount*2+1); 
 6.时间复杂度O(n2)
-7.Expand Around Center
+7.Now use Expand Around Center
+8.try Manacher's Algorithm 
