@@ -1,0 +1,6 @@
+1.边界处理仍有问题。
+2.从中间开始寻找最大回文字符串
+3. ca[max] ='\0'的必要性，脏字符很多
+4.极端情况处理方案需要预留
+5.memcpy时字符取地址&s[i-midCount]--memcpy(longestPa,&s[i-midCount],midCount*2+1); 
+6.时间复杂度
